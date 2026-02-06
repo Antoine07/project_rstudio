@@ -1,2 +1,9 @@
+# setup.R
+
+# Packages
 library(readr)
-library(tiddle)
+library(dplyr)
+library(tibble)
+
+# Options simples
+options(stringsAsFactors = FALSE)
