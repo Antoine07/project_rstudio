@@ -18,6 +18,9 @@ Projet RStudio ultra simple pour débuter.
 
 ## fichier défissant le projet
 
+
+```txt
+
 Version: 1.0
 # Version du format du fichier projet (ne pas modifier)
 
@@ -44,3 +47,5 @@ NumSpacesForTab: 2
 Encoding: UTF-8
 # Encodage standard
 # → évite les problèmes d’accents
+
+```
